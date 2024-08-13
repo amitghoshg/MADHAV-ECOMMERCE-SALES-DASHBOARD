@@ -1,0 +1,15 @@
+﻿Profitable Months,,,,Top 3 Sub-category,,,,Top Customer,,,,
+,,,,,,,,,,,,
+sl no.,Month,Total Profit,,sl no.,Month,Total Profit,,sl no.,Customer_Name,Total_Amount,,
+1,"Jan1,2018",11.86k,,1,Bookcases,11.024k,,1,Madhab,8632,,
+2,"Nov1,2018",11.048k,,2,Printers, 11.648k,,2,Harivansh,7434,,
+3,"Mar1,2019",10.434k,,3,Saree,9358,,3,Madan Mohan,7082,,
+,,,,4,Phones,9358,,4,Shiva,6339,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Top States Spends a Lot ,,,,Sum of Quantity by Category,,,,,Sum of Quantity by Sub-Category,,,
+,,,,,,,,,,,,
+sl no.,State_Name,Total_Amount,,sl no.,Category,Total  Quantity,Quantity Percentage,,sl no.,Sub- Category,Total  Quantity,Quantity Percentage
+1,Maharastra,70.24k,,1,Clothing,2263,65.3,,1,Hankerchif,554,16
+2,Madhya Pradesh,53.847k,,2,Electronics,678,19.6,,2,Stole,466,13.4
+3,Uttar Pradesh,29.345k,,3,Furniture,527,15.2,,3,Saree,425,12.3
